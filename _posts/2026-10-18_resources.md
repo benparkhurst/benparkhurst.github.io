@@ -2,7 +2,7 @@
 layout: post
 title: "Resources"
 author: "Benjamin Parkhurst"
-categories: resources
+categories: resource
 image: city.jpg
 permalink: /resources
 caption:
