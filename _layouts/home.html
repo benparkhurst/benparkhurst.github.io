@@ -7,6 +7,6 @@ title: Home
   <p> I'm Benjamin Parkhurst [ˈbɛnd͡ʒəmɪn ˈpʰɑɹk(h)ə˞st], my pronouns are he/him, and I like sounds. I'm currently a researcher at the <a href="https://wp.nyu.edu/appl/">Acoustic Phonetics and Perception Lab @ NYU</a>.</p>
 </article>
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   {% include featured-post.html %}
 {% endfor %}
