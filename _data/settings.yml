@@ -12,9 +12,11 @@ menu:
 - {name: 'Research',  url: 'research'}
 - {name: 'Resources', url: 'resources'}
 - {name: 'Publications', url: 'publications'}
+- {name: 'Music', url: 'music'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'linkedin', url:   'https://www.linkedin.com/in/bdparkhurst/'}
-- {icon: 'envelope', url:   'mailto:bdp2126@columbia.edu'}
+- {icon: 'linkedin', link:   'https://www.linkedin.com/in/bdparkhurst/'}
+- {icon: 'envelope', link:   'mailto:bdp2126@columbia.edu'}
+- {icon: 'utensils', link:   'https://beliapp.co/profile/toastur'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
