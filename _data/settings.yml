@@ -15,6 +15,6 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'linkedin', name:   'https://www.linkedin.com/in/bdparkhurst/'}
-- {icon: 'envelope', name:   'mailto:bdp2126@columbia.edu'}
+- {icon: 'linkedin', url:   'https://www.linkedin.com/in/bdparkhurst/'}
+- {icon: 'envelope', url:   'mailto:bdp2126@columbia.edu'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
