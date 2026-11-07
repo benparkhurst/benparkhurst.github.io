@@ -5,7 +5,7 @@ author: "Benjamin Parkhurst"
 categories: resources
 image: city.jpg
 permalink: /resources
-caption:
+caption: Downtown Montreal as seen from Mount Royal.
 ---
 
 <p>Resources I've made:</p>
